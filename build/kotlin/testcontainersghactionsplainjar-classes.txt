@@ -1,0 +1,1 @@
+/home/mike/projects/tests/test-containers-gh-actions/build/classes/kotlin/main/com/example/redis/ExampleController.class:/home/mike/projects/tests/test-containers-gh-actions/build/classes/kotlin/main/com/example/redis/RedisApplication.class:/home/mike/projects/tests/test-containers-gh-actions/build/classes/kotlin/main/com/example/redis/RedisApplicationKt.class
